@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Expedients proposed for the easing and advantaging the coal-trade, and lessning the price of coals in London, and other places, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09132</idno>
+            <idno type="OCLC"> 80922680</idno>
+            <idno type="STC">Wing E3877C</idno>
+            <idno type="STC">ESTC R223182</idno>
+            <idno type="EEBO-CITATION">80922680</idno>
+            <idno type="OCLC">ocm 80922680</idno>
+            <idno type="VID">191873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191873)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2893:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Expedients proposed for the easing and advantaging the coal-trade, and lessning the price of coals in London, and other places, &amp;c.</title>
+                  <author>Middleton, Thomas, fl. 1670.</author>
+               </titleStmt>
+               <extent>3, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>P. 3 signed: Thomas Middleton ... [and 6 others].</note>
+                  <note>Includes: "The town of Newcastles answer to the proposals above-mentioned" and "The reply to the answer of Newcastle."</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal trade --  England --  Early works to 1800.</term>
+               <term>Coal --  Prices --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_proposals_for_the_coal_trade">
+            <pb n="1" facs="tcp:191873:1"/>
+            <head>Expedients propoſed for the Eaſing and Advantaging the Coal-Trade, and Leſsning the Price of Coals in <hi>London,</hi> and other Places, <hi>&amp;c.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>I.</hi> THat all Ships may have Liberty, (if they find it for their conveniency) to take in ſuch Beer and other Proviſion, as they ſhall at any time want for their Voyages, in or about <hi>Sheilds,</hi> and not to be forced (as now they are) to ſend Seven Miles up the River to <hi>Newcaſtle</hi> for the ſame, whereby they often loſe the opportunity of a fair Wind, or a Convoy, and by conſequence their whole Voyage.</item>
+               <item>
+                  <hi>II.</hi> That it may be lawful for any Ship in Diſtreſs, to make uſe of any Pilot or Carpenter, though no Freeman of <hi>Newcaſtle,</hi> (which is now by no means permitted) for whilſt they ſend ſo far as <hi>Newcaſtle</hi> for help, (which when they do, they cannot have from thence, but at Exceſſive Rates) the Ships that want, or have wanted ſuch help, may be, and often have been caſt away, before ſuch Pilot or Carpenter could come to them.</item>
+               <item>
+                  <hi>III.</hi> That a Free Ballaſt-Shore, may be Built by the Owners of <hi>Jarrowſlike</hi> near <hi>Sheilds,</hi> or any other Owners of Lands and Grounds there. And that all Ships may, (if for their own Benefit) be at li<g ref="char:EOLhyphen"/>berty to lay Ballaſt there, and not forced (as now they are) to carry it ſeveral Miles, up a dangerous River to <hi>Newcaſtle</hi> Shores; In as much as <hi>Jarrowſlike</hi>-Shoar, when Built, will be greatly for the Ad<g ref="char:EOLhyphen"/>vantage of the River, and all Ships Trading upon the ſame. And it is farther offered to Conſideration, and it will eaſily be Demonſtrated, That if theſe things were done, the River would be much Bettered, and made Deeper, and more Navigable, which would Encourage the Building of Great Ships, which are the moſt proper for that Trade, and ſuch as would be <g ref="char:V">Ʋ</g>ſeful for the Defence of the Kingdome, in time of War: Beſides, by theſe Means, Maſters of Ships might make Two or Three Voyages in the Year, more than now they do, by reaſon of the quick Diſpatch they would then receive, above what they now have; the conſequence whereof muſt needs be, That Coals, Glaſs, Salt, and Milſtones, which are the proper Commodities of thoſe Parts, would be much Cheaper to the Subject than now they are, and the great Duty laid on Coals for ſeveral years to come, be leſs felt by the Poor than now it is.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <head>The Town of <hi>Newcaſtles</hi> Anſwer to the Propoſals above<g ref="char:EOLhyphen"/>mentioned.</head>
+            <p>TO the Firſt, it is anſwered, That the Mayor and Burgeſſes of <hi>Newcaſtle,</hi> have by <hi>Preſcription</hi> the Survey and Government of the Port and River there; which Port and River, are within the Bounds and Limits of the Borough of <hi>Newcaſtle.</hi> And the ſaid Mayor and Burgeſſes have from time to time (whereof the Memory of Man runs not to the contrary,) had the ſole Vending of all Beer and Ale ſold to Ships Trading to that Port: And this is, in effect, no more than all Cor<g ref="char:EOLhyphen"/>porations by <hi>Preſcription</hi> enjoy, That none ſhall exerciſe a Trade within their Corporation, but the Members of it. And it ſeems to be as reaſonable to take away the Priviledges of all other <hi>Corpora<g ref="char:EOLhyphen"/>tions,</hi> as to take away this: And beſides, the publick is no way injured; for Ships do not loſe their Voyages by it, becauſe the Ships may take in their Beer and Ale at <hi>Sheilds</hi> from <hi>Newcaſtle,</hi> in a quarter of the time they can take in their Coals; for they go two, three, and ſometimes four Miles above <hi>Newcaſtle</hi> for their Coals. And this very Point, as to the ſole vending of Beer and Ale by the Mayor and Burgeſſes within the ſaid Port, has been lately Tryed in his Majeſties Court of Ex<g ref="char:EOLhyphen"/>chequer, and found by a ſubſtantial Jury for the Mayor and Burgeſſes, and a Decree thereupon made for the ſame.</p>
+            <p>To the Second, it is Anſwered, That it is lawful in that Port, for any Ship-Maſter to uſe his own Carpenter; and if the Ship be in diſtreſs, the Maſter may uſe any Carpenters whatſoever at <hi>Sheilds:</hi> and beſides, Care is taken that there be always Carpenters and Pilots that are Freemen of <hi>Newcaſtle,</hi> that live at <hi>Sheilds,</hi> near the Mouth of the Haven, to ſerve ſuch Maſters of Ships as have occaſion to uſe their Services there, and that at Reaſonable Prices, lower than in other places. And the Mayor of <hi>Newcaſtle</hi> may regulate the Prices, if unreaſonable Demands be made; and it is a great Miſtake to affirm, That any Ships have been loſt in that Harbour, for want of Carpenters or Pilots, and the ſame cannot be proved.</p>
+            <p>
+               <pb n="2" facs="tcp:191873:2"/>
+To the Third, the Anſwer is, That <hi>Jarrowſlike</hi> is no fit place for a Shore, being near the Mouth of the Haven, becauſe the unavoidable fall of Ballaſt would make a Sand-Bed, which would hinder Ships to paſs in and out. It would be a Nuſance to have a Shore there, there being no Foundation to erect a Wall for a Ballaſt-Key. And it would be further inconvenient, the Channel of the Ri<g ref="char:EOLhyphen"/>ver being Narrow in that place, it would make the Currant ſo quick, that no Ships could lie at Anchor there, or Keels come to caſt Coals or Ballaſt there. And it would hinder the paſſage of Ships in the ſaid River, and would be an injury to the Mayor and Burgeſſes to make an Act of Parlia<g ref="char:EOLhyphen"/>ment to erect a Shore at the place deſired; for they do preſcribe, That no Shores ſhould be built upon that River without their Licence; if this were not the River had been long ſince blockt up, and it were impoſſible to prevent <hi>Nuſances</hi> to the ſaid River, if the Mayor and Burgeſſes had not the Survey and <hi>Government</hi> of it: For every Man that has Land upon the ſaid River, might be at Liberty to build into the River as far as they pleaſe.</p>
+            <p>This <hi>Preſcription</hi> has been likewiſe Tryed at Law at the Bar of the Court of Exchequer, and found for the Mayor and Burgeſſes: And why may not all, or any the Franchiſes of all other <hi>Corporations,</hi> be taken away by Act of Parliament as well as this? And there is no inconvenience to Ships that Trade to that Port, for want of a Shore there, becauſe there are Shores four or five Miles lower than <hi>Newcaſtle,</hi> ſeated in convenient places, where Ships caſt their ballaſt, and take in their Coals without danger.</p>
+            <p>The Mayor and Burgeſſes being Conſervators of the River and Port of <hi>Tine,</hi> (a place of great Import to the Kingdom, and Nurſery of Seamen and Navigation) and having an ancient Court for the Government and Preſervation of the River and Port, do never give leave to build a Ballaſt Shore, until the place be viewed by a Jury of Maſters of the <hi>Trinity-Houſe</hi> and Pilots, and they upon their Oaths give a Verdict, that the place is convenient, and without Prejudice to the River.</p>
+            <p>That the <hi>Expedients</hi> propoſed, will not in any ſort leſſen the <hi>Price of Coals;</hi> for the ſame Tide that will carry Ships to the place deſigned for a Shore, will carry them to ſome other Shores or Wharfs that are already erected. And the ſame Wind that will carry Ships out from the one place will carry them out from the other. And the Ballaſt is caſt out upon as cheap and eaſy terms from ſome of the other Shores already erected, as it can poſſibly be from the other place deſigned for a Shore. Beſides, the Charges for Lighters to bring down Coals to Ships lying at <hi>Jarrowſlike,</hi> will be greater than the Rates are at the other Shores already erected upon the River. And Lighters which bring Coals to the Ships riding at <hi>Jarrowſlike,</hi> will not be able in great Weſterly Winds (which often happen) to go up again to fetch more Coals to Load the Ships there; although from the other Shores they may go up, notwithſtanding the greatneſs of the Wind.</p>
+            <p>And in truth this is but a deſign for ſome particular Mens intereſt, (upon pretence of Publick good) which they have long endeavoured by ſeveral means to effect at the Council-Board, and at Law, but could not prevail.</p>
+         </div>
+         <div type="letter">
+            <head>The Reply to the Anſwer of <hi>Newcaſtle.</hi>
+            </head>
+            <p n="1">1. THeir Anſwer to the firſt Expedient confeſſes matter of Fact to be what is complained of; And whether it be a reaſonable thing for any Town by Preſcription only, to hinder all per<g ref="char:EOLhyphen"/>ſons, though eight or ten Miles from the Town from ſelling Beer, Ale, and other Proviſions to Ships, is left to the Wiſdom of Parliament to Judg; And 'tis humbly conceiv'd moſt proper for that High Court to Determine, ſince by their own Papers they ſay no Remedy can be had for it elſewhere. And whereas they ſay, it ſeems as reaſonable to take away the Priviledges of all other Corporations, as this; We joyn Iſſue upon it, and ſay ſo too, in caſe there be any other places that un<g ref="char:EOLhyphen"/>der pretence of their Priviledges, hinder all but themſelves from buying or ſelling any Commodities (eſpecially Victual) eight or ten Miles round: But as yet no other ſuch place is known; When 'tis, it may be complain'd of with hopes of Redreſs. And 'tis a fallacy to ſay 'tis no Injury to the Publick, becauſe Ships go two, three, or four Miles above <hi>Newcaſtle</hi> for Coales: poſſibly ſome ſmall Veſſels may go ſo high; but great Ships which are chiefly intended to be provided for in this Bill, will not willingly venture to come within five or ſix Miles of the Town.</p>
+            <p n="2">2. To the ſecond, That Ships may uſe their own Carpenters which come in their Ships, is true, becauſe they cannot poſſibly hinder it; but if any other Carpenter (on what occaſion ſoever) that lives thereabouts, not being a Freeman of <hi>Newcaſtle</hi> preſumes to help any Ship in Diſtreſs, he will certainly be impriſoned and arbitrarily puniſhed for it, as ſeveral have been. And 'tis no miſtake to
+<pb n="3" facs="tcp:191873:3"/>ſay that ſome Ships have been loſt, and many damaged for want of help in that Port, which hath formerly been proved upon Oath: and the great damage that Ships come to by reſtraining Carpen<g ref="char:EOLhyphen"/>ters and Pilots will be made plainly appear when it comes to proof; and all Ship-Maſters and Owners hope for Redreſs in it.</p>
+            <p>Whereas they ſay, that <hi>Jarrowſlike</hi> is no fit place for a Ballaſt-ſhore, becauſe ſo near the mouth of the Haven, why then were Ballaſt-ſhores permitted to be made below it nearer to the mouth of the ſaid Haven where the River is narrower than at that place? And the ſame reaſon that they give againſt this Shoar holds, and is more againſt any other Shoar in the River; ſo that by this Argument there ought to be none at all for the unavoidable fall of Ballaſt into the River will be more in other places than here: For when Ships throw their Ballaſt out into Lighters firſt, much of it often falls into the River, and the reſt is ſometimes at Night thrown over-board into the River to ſave Car<g ref="char:EOLhyphen"/>riage up to the Wharfs by Lighter-men, and alſo ſome will fall out as it is unlading there: Where<g ref="char:EOLhyphen"/>as, if there were a Ballaſt-ſhoar at <hi>Jarrowſlike,</hi> great Ships might the firſt Tide come up to the ſide of it and unlade their Ballaſt where there can be no poſſible fall of Ballaſt into the River, but what falls in unlading 'twixt the Ships and the Wharf, which at Low-water may and will be eaſily thrown up again that other Ships may come and unlade there. And whereas they ſay that it will Choak up the River, It will clear it of the Sand which continually waſheth out of <hi>Jarrowſlike,</hi> and ſome other Sand now in the River. And as for their ſaying there can be no Foundation, why do they then oppoſe it? ſince if it cannot be done, it can be no prejudice to them. And it will not at all alter the Current of the River at times of Lading and Unlading Ships; it being 3 quarters Ebb before the Coal-Lighters come down. And to what they ſay of Weſterly Winds hindring Lighters to go up to fetch Coals down to the Ships; Surely, Lighters that are Low-built may more eaſily go up for Coals than Ships which are much Higher and have Maſts. And the Preſcrip<g ref="char:EOLhyphen"/>tion they plead againſt any of this, (though 'tis believ'd they can never make't out to have been without interruption) however 'tis the Grievance deſired to be redreſs't by this Bill.</p>
+            <p>
+               <hi>Whereas 'tis Pretended to be carried on for Private Intereſt only; The contrary will appear by reading the Reports and Reaſons of the</hi> Trinity-<hi>Houſe; which are as followeth.</hi>
+            </p>
+            <p>According to your Majeſties Order in Council bearing date <hi>Auguſt</hi> the 5th. We have conſi<g ref="char:EOLhyphen"/>dered of the Allegations of Sir <hi>Charles Adderly</hi> Knight, and <hi>John Crook</hi> Eſquire, concerning the e<g ref="char:EOLhyphen"/>recting of a Ballaſt Shore at <hi>Jarrowes-Slake</hi> near South Shield in the County of <hi>Dureſme;</hi> And do humbly make our Report that we are of opinion That a Ballaſt-Wharfe at South-Shields will be of great uſe and benefit to all Ships Trading in the River <hi>Tine</hi> for Coals, for theſe Reaſons.</p>
+            <list>
+               <item>1ly, That it will prevent the loſs of Ships in their coming for <hi>Tynmouth</hi>-Bar, for that they have and do at this day caſt out great part of their Ballaſt before they come to the Bar, ſo to avoid the great charge after they are in the River of carrying up their Ballaſt in Keels to <hi>Newcaſtle,</hi> after which meeting with foul weather they have many times been Caſt away by reaſon of their Lightneſs.</item>
+               <item>2ly, It will be a means to Secure great Ships from the Caſualties which befall them; by their com<g ref="char:EOLhyphen"/>ing a Ground many have been Loſt going up or coming down the River, at Leaſt it will prevent the wronging of them when they lie on hard Ground or Rocks, going to or coming from <hi>Newcaſtle,</hi> whereby the Ships will laſt the longer; and it will alſo give them a much quicker diſpatch in their Voyages.</item>
+               <item>3ly, It will be an Encouragement for men to build great Ships for that Trade ſuch as may be uſe<g ref="char:EOLhyphen"/>ful for defence of the Kingdom in time of War, and much more proper for that Trade than ſmall Veſ<g ref="char:EOLhyphen"/>ſels.</item>
+               <item>4ly, That the Price of taking out the Ballaſt at Sheilds being moderately ſet, It will be a great Incouragement to Navigation, for that the price of taking it out by the Town of <hi>Newcaſtle</hi> is very high.</item>
+               <item>5ly, That by means hereof Maſters of Ships may make two or three Voyages more in a year, the charge of taking out their Ballaſt being Leſsned, and the time of going up the River being ſaved and their Ships hereby the better preſerved, and being great Ships moſt proper for that Trade they may ſell Coals much cheaper to the benefit of the Publick and get more money to their Own<g ref="char:EOLhyphen"/>ers than now they do, and all this with leſs hazard; All which we humbly ſubmit to your Sacred Majeſties moſt prudent Conſideration.</item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Thomas Middleton</item>
+                     <item>William Wileey</item>
+                     <item>Edward Criſpe <hi>Deputy Mr.</hi>
+                     </item>
+                     <item>Henry Shears D. Warden,</item>
+                     <item>Henry Tederman</item>
+                     <item>
+                        <list>
+                           <head>Wardens.</head>
+                           <item>John Cox</item>
+                           <item>Edward Seaman</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="map">
+            <pb facs="tcp:191873:4"/>
+            <p>
+               <figure>
+                  <p>Tinmauth Bar</p>
+                  <p>the Harbor</p>
+                  <p>Ballast Shore</p>
+                  <p>Iarrow Slike</p>
+                  <p>Ballast Shore</p>
+                  <p>way to Newcastle</p>
+                  <figDesc>rough map of Tyne near Tynemouth</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
